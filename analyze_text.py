@@ -96,4 +96,4 @@ def load_and_filter_comprehensive():
 
 # 실행
 integrated_df = load_and_filter_comprehensive()
-visualize_keywords(integrated_df)
+# visualize_keywords(integrated_df)
