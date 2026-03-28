@@ -48,7 +48,7 @@ python analyze_graph.py
 python analyze_text.py
 ```
 ## References
-[News Category Dataset]: https://www.kaggle.com/datasets/rmisra/news-category-dataset?resource=download
-[Environment News Dataset]: https://www.kaggle.com/datasets/beridzeg45/guardian-environment-related-news
-[Twitter Climate Change Sentiment Dataset]: https://www.kaggle.com/datasets/edqian/twitter-climate-change-sentiment-dataset
-[Climate Change News]: https://www.kaggle.com/datasets/fringewidth/climate-change-news
+[News Category Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset?resource=download)
+[Environment News Dataset](https://www.kaggle.com/datasets/beridzeg45/guardian-environment-related-news)
+[Twitter Climate Change Sentiment Dataset](https://www.kaggle.com/datasets/edqian/twitter-climate-change-sentiment-dataset)
+[Climate Change News](https://www.kaggle.com/datasets/fringewidth/climate-change-news)
